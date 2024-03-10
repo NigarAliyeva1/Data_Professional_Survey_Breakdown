@@ -38,3 +38,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 Feel free to reach out to me at nigaraliyeva959@gmail.com.
+
+![vis](https://github.com/NigarAliyeva1/Data_Professional_Survey_Breakdown/assets/112957859/018217fa-55d1-4842-9dca-5b266e2953df)
+
